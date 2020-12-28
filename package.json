@@ -1,0 +1,14 @@
+{
+  "name": "flyweight",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc index.ts && node index.js && rm index.js && rm Tree.js && rm TreeFactory.js && rm TreeType.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.1.3"
+  }
+}

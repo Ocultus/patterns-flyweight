@@ -1,5 +1,5 @@
 # Tree class
-    Typescript implementation of pattern Flyweight
+Typescript implementation of pattern Flyweight
 
 ---
 ### How to start
